@@ -4,7 +4,7 @@ A real-time chat application built with React and Node.js.
 
 🌐 **Live Demo:** [chat-io-mv19.onrender.com](https://chat-io-mv19.onrender.com)
 
-> ⏳ Free tier — allow 30-60 seconds to wake up on first visit.
+> ⏳ Note: The app is hosted on Render's free tier. Please allow 30-60 seconds for the server to wake up on first visit.
 
 ## Tech Stack
 
